@@ -2,7 +2,7 @@
 
 ## Dane
 
-[Link do danych na Google Drive]([https://drive.google.com/drive/u/1/folders/11d8JB4SvhidQ9pQpN2q9jmyimSHfORgj](https://drive.google.com/file/d/18YR2hdIq5lfktockpFT0PkXopX3kyM7U/view?usp=sharing)
+[Link do danych na Google Drive]([https://drive.google.com/drive/u/1/folders/11d8JB4SvhidQ9pQpN2q9jmyimSHfORgj](https://drive.google.com/file/d/18YR2hdIq5lfktockpFT0PkXopX3kyM7U/view?usp=sharing))
 
 ## Opis zbioru danych
 
