@@ -23,4 +23,7 @@ Dodatkowo, w każdej z faz wprowadzano "próby kontrolne" z danymi o znanych oso
 Dane zostały zapisane w formie osobnych plików, z których każdy odpowiada jednemu blokowi eksperymentu danego uczestnika. Nazwy plików zawierają numer bloku oraz unikalny identyfikator (UUID) uczestnika.
 
 Oprócz sygnałów EEG, pliki zawierają szczegółowe adnotacje, co ułatwia późniejszą analizę, zarówno pod kątem jakości danych, jak i trafności przypisania odpowiedzi do konkretnego typu zadania.
+
+## Cel zadania
+Celem jest wykonanie obszernej analizy danych, oraz stowrzenie klasyfikatora fałszu.
 # Wdro-enie-AI-2025
