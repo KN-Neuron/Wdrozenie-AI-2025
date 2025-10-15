@@ -4,6 +4,8 @@
 
 [Link do danych](https://drive.google.com/file/d/18YR2hdIq5lfktockpFT0PkXopX3kyM7U/view?usp=drive_link)
 
+[Sprzęt, na którym zbieraliśmy dane](https://www.brainaccess.ai/products/brainaccess-extended-kit/)
+
 ## Opis zbioru danych
 
 ### Eksperyment i zadania
