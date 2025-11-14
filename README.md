@@ -1,4 +1,6 @@
-# Wdrożenie AI 2025
+# Wdrożenie KN Neuron
+
+Zachęcamy do tworzenia PR z nowymi źródłami do nauki neuroinformatyki.
 
 ## Dane
 
